@@ -1,0 +1,10 @@
+{
+    "name": "AmazeeLabs/algm-drupal-security-plugin",
+    "description": "Drutiny security plugin for ALGM Drupal audits",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+        "drutiny/plugin-drupal-8": "^2.0"
+    }
+}

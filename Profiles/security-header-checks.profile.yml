@@ -1,0 +1,10 @@
+title: 'Security header checks'
+description: 'Checks to maintain header security'
+policies:
+    'HTTP:Cache-Control': {}
+    'HTTP:Content-Security-Policy': {}
+    'HTTP:HSTS': {}
+    'HTTP:ReferrerPolicy': {}
+    'HTTP:X-Content-Type-Options': {}
+    'HTTP:X-Frame-Options': {}
+    'HTTP:X-XSS-Protection': {}
